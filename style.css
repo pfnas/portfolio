@@ -199,9 +199,7 @@ header h2 {
 
 }
 
-.wrapper {
-    text-align: center;
-}
+
 
 .scroll_wrapper {
     position: absolute;
@@ -272,6 +270,15 @@ header h2 {
     color: #f2fff2;
     display: inline-block;
     padding: 0 12px 12 px 12px;
+}
+
+.wrapper {
+    text-align: center;
+    color: #79da7e
+}
+
+.wrapper.appearColor {
+    color: #79da7e;
 }
 
 .portfolio {
