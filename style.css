@@ -297,8 +297,11 @@ header h2 {
     -moz-border-radius: 5%;
     -ms-border-radius: 5%;
     -o-border-radius: 5%;
-    margin-top: 20px
+    margin-top: 20px;
+    box-shadow: 3px 13px 15px;
 }
+
+.project:hover {}
 
 .project img {
     border-radius: 5%;
