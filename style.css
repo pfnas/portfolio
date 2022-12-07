@@ -634,10 +634,23 @@ h2.legend {
     transform-origin: 0% 0%;
 }
 
-.legendImage {
+.legendImage,
+.legendLogo {
     display: flex;
     justify-content: center;
     text-align: center;
+    font-weight: 900;
+}
+
+.legendLogoPanther {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    color: #fefefe;
+    font-weight: 900;
+    padding: 10px;
+
 }
 
 @font-face {
@@ -683,7 +696,7 @@ body {
 @media (max-width:992px) {
     .carousel--item {
 
-        width: 80vw;
+        width: 85vw;
         padding: 15vw 3vw;
 
     }
