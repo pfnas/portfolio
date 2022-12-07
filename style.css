@@ -38,10 +38,11 @@ h3 {
     letter-spacing: 3px;
 }
 
-/* h2 .explain {
-    text-align: right;
+.explain {
+    margin-top: 100px;
+    font-size: 1.8rem;
 
-} */
+}
 
 body {
     /* width: 100%;
@@ -401,7 +402,8 @@ header h2 {
 
 .wrapper {
     text-align: center;
-    color: #79da7e
+    /* color: #79da7e */
+    display: block;
 }
 
 .wrapper.appearColor {
