@@ -400,15 +400,7 @@ header h2 {
     padding: 0 12px 12 px 12px;
 }
 
-.wrapper {
-    text-align: center;
-    /* color: #79da7e */
-    display: block;
-}
 
-.wrapper.appearColor {
-    color: #79da7e;
-}
 
 .portfolio {
     margin: 100px 0;
